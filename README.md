@@ -28,11 +28,6 @@
 
 ## Authors
 
-* **Emily Dorgan** 
-
-- [Link to Portfolio Site](https://emdorgan.github.io/updated-portfolio/)
-- [Link to Github](https://github.com/emdorgan)
-- [Link to LinkedIn](https://www.linkedin.com/in/emily-dorgan/)
 
 ## License
 
