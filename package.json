@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehdisafari77/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehdisafari77/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/mehdisafari77/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
